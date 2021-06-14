@@ -1,0 +1,22 @@
+{
+  "name": "firstodinnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ed-dickinson/FirstOdinNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ed-dickinson/FirstOdinNode/issues"
+  },
+  "homepage": "https://github.com/ed-dickinson/FirstOdinNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
